@@ -10,3 +10,5 @@ logs/
 .TESTING.md
 .real_api_tests.py
 .vscode
+.bioguard_v7_submission.zip
+.gitignore
