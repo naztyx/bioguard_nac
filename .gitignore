@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+logs/*.log
+*.tar.gz
+.venv/
+venv/
+logs/
+.TESTING.md
+.real_api_tests.py
+.vscode
